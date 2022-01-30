@@ -5,4 +5,4 @@ tags={
 }
 picture="hd_asteroids.png"
 remote_file_id="1318671320"
-supported_version="2.0.2"
+supported_version="3.2.2"
